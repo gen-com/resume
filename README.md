@@ -15,11 +15,14 @@
 
 ## 활동
 
-Landvibe SC iOS
+Landvibe SC iOS 진행중 입니다!
+
+<img src="/image/iOS.jpg" width="300" height="230">
 
 ## 경력
 
-채워주세요~!
+<img src="/image/IwannaDo.png" width="300" height="230">
+
 
 ## 프로젝트
 
