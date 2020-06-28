@@ -22,7 +22,8 @@ Landvibe SC iOS 수료(교내 소모임 스터디)
 ## 프로젝트
 
 [MorningBees 진행중](https://github.com/THRAGOO/Morningbees-iOS) (7월 출시 계획)
-<img src="/image/bee@3x.png" width="300" height="230">
+
+<img src="/image/bee@3x.png" width="260" height="230">
 
 ## 경력
 
