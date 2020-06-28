@@ -15,15 +15,14 @@ iOS를 공부하고 있습니다.
 
 ## 활동
 
-Landvibe SC iOS 수료
+Landvibe SC iOS 수료(교내 소모임 스터디)
 
 <img src="/image/iOS.jpg" width="300" height="230">
+
+## 프로젝트
+
+MorningBees 진행중 (7월 출시 계획)
 
 ## 경력
 
 <img src="/image/IwannaDo.png" width="300" height="230">
-
-
-## 프로젝트
-
-MorningBees 진행중
