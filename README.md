@@ -11,7 +11,7 @@ iOS를 공부하고 있습니다.
 
 * [포항중앙고등학교](http://school.gyo6.net/pojungang)
 
-* [인하대학교](http://www.inha.ac.kr/mbshome/mbs/kr/index.do)/[컴퓨터공학과](http://www.inha.ac.kr/cop/search/introList.do?siteId=kr&deptCode=1184&majorCodeH=217&majorCodeS=0009&codeS=0183&id=kr_030201190000) 3학년 재학
+* [인하대학교](http://www.inha.ac.kr/mbshome/mbs/kr/index.do)/[컴퓨터공학과](http://www.inha.ac.kr/cop/search/introList.do?siteId=kr&deptCode=1184&majorCodeH=217&majorCodeS=0009&codeS=0183&id=kr_030201190000) 4학년 재학
 
 ## 활동
 
@@ -21,7 +21,7 @@ Landvibe SC iOS 수료(교내 소모임 스터디)
 
 ## 프로젝트
 
-[MorningBees 진행중](https://github.com/THRAGOO/Morningbees-iOS) (7월 출시 계획)
+[MorningBees 진행중](https://github.com/THRAGOO/Morningbees-iOS)
 
 <img src="/image/bee@3x.png" width="200" height="200">
 
