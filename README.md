@@ -21,7 +21,7 @@ Landvibe SC iOS 수료(교내 소모임 스터디)
 
 ## 프로젝트
 
-[MorningBees 진행중](https://github.com/THRAGOO/Morningbees-iOS)
+[MorningBees](https://github.com/THRAGOO/Morningbees-iOS)
 
 <img src="/image/bee@3x.png" width="200" height="200">
 
